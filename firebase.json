@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "public",
+    "site": "taliferro-website-development",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /img/
+Disallow: /css/
+Disallow: /js/
+Disallow: /fonts/
+
+
+Sitemap: https://website-development.taliferro.com/sitemap.xml
