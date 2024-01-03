@@ -1,47 +1,31 @@
-# Taliferro Group Website Development Consulting Services
+# Taliferro Group Website Development and Bespoke Software Website
 
-This repository contains the source code for [Taliferro Group's Website Development Consulting Services](https://website-development.taliferro.com). Our website serves as a comprehensive platform to showcase our expertise in bespoke software development and website consulting services.
+## Overview
+This repository hosts the source code for the Taliferro Group's Website Development and Bespoke Software services website. The site provides insights into our custom web development solutions, bespoke software services, and our approach to integrating these technologies for business growth.
 
-## About the Website
+## Pages
+- `index.html` - Main landing page providing an overview of our services.
+- `website-development.html` - Details our approach and services in professional website development.
+- `bespoke-software-development.html` - Focuses on our bespoke software development solutions.
+- `bespoke-software-website-development.html` - Discusses the integration of bespoke software with website development.
 
-The website at https://website-development.taliferro.com is designed to provide detailed information about our custom programming and website development consulting services. It highlights our approach, methodologies, and the unique benefits we offer to our clients.
+## Structure
+- `css/` - Directory containing CSS files for website styling.
+- `js/` - Directory containing JavaScript files for dynamic functionalities.
+- `img/` - Images and other media resources used across the website.
 
-## Features
+## Setup
+1. Clone the repository: `git clone https://github.com/TaliferroGroup/website-development-bespoke-software.git`
+2. Navigate to the directory: `cd website-development-bespoke-software`
+3. Open `index.html` in a web browser to view the site.
 
-- Overview of Taliferro Group's bespoke software development services.
-- Insights into our website development and consulting expertise.
-- Detailed case studies and client testimonials.
-- Contact and inquiry forms for potential clients.
+## Contributions
+We appreciate contributions to enhance and improve the website. Feel free to fork the repository, make changes, and submit a pull request.
 
-## Technology Stack
-
-This website is built using modern web technologies and frameworks, reflecting our commitment to using cutting-edge solutions in our projects. The key technologies include:
-
-- HTML
-- CSS
-- JavaScript
-- Ajax
-
-## Installation and Setup
-
-To set up this project locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/Taliferro/website-development.git`
-2. Navigate to the project directory: `cd website-development`
-3. [Insert additional setup/installation steps]
-
-## Contributing
-
-We welcome contributions from the community. If you would like to contribute to the development of our website, please follow the standard GitHub pull request process.
-
-## Contact Us
-
-For more information or inquiries about our services, please visit our [Contact Page](https://website-development.taliferro.com/) or reach out to us at [info@taliferro.com](mailto:info@taliferro.com).
+## Contact
+- **Email**: [info@taliferro.com](mailto:info@taliferro.com)
+- **Phone**: 206.809.8529
+- **Address**: 1424 11th Ave STE 400, Seattle WA 98122
 
 ## License
-
-[Insert License Information]
-
----
-
-© 2023 Taliferro Group. All Rights Reserved.
+[MIT License](LICENSE)

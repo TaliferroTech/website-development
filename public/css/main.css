@@ -5435,7 +5435,7 @@ body.elementor-editor-active [data-arts-os-animation] {
 .section-nav-projects__link {
   display: block;
   pointer-events: none;
-  opacity: 0.2;
+  opacity: 0.6;
   color: var(--color-dark-2);
 }
 
