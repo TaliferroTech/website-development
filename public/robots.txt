@@ -1,5 +1,12 @@
 User-agent: *
 Allow: /
-
+Disallow: /website-developer-near-me.html
+Disallow: /affordable-web-development-services.html
+Disallow: /custom-website-development-services-work.html
+Disallow: /professional-website-designer-work.html
+Disallow: /professional-website-developer-work.html
+Disallow: /responsive-web-design-services-work.html
+Disallow: /website-developer-for-small-business-work.html
+Disallow: /index-work.html
 
 Sitemap: https://website-development.taliferro.com/sitemap.xml
